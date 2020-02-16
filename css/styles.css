@@ -204,7 +204,7 @@ hr{
         width: 8%;
     }
     .sql-img{
-        width: 13%;
+        width: 14%;
     }
 }
 @media screen and (min-width: 768px) {
@@ -216,6 +216,12 @@ hr{
     }
     .work-row{
         height: 845px;
+    }
+    .css-img{
+        width: 3.6%;
+    }
+    .sql-img{
+        width: 6%;
     }
 }
 @media only screen and (min-width: 992px) {
@@ -239,6 +245,12 @@ hr{
         height: 400px;
     }
     .skill-row{
-        height: 350px;
+        height: 430px;
+    }
+    .skill-images{
+        padding-bottom: 0;
+    }
+    .skill-images-sec{
+        padding-top: 50px;
     }
 }
