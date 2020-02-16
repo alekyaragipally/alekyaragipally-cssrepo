@@ -186,6 +186,15 @@ hr{
     .work-row{
         height: 1190px;
     }
+    .contact-row{
+        height: 340px;
+    }
+    .contact-img{
+        width: 17%;
+    }
+    .skill-img{
+        width: 12%;
+    }
 }
 @media screen and (min-width: 768px) {
     .intro-row{
