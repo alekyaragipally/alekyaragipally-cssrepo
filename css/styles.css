@@ -158,7 +158,12 @@ hr{
 .skill-images-sec{
     padding-top: 20px;
 }
-
+.sql-img{
+    width: 7%;
+}
+.css-img{
+    width: 3.6%;
+}
 @keyframes slidein {
     from {
       margin-left: 100%;
@@ -195,6 +200,12 @@ hr{
     .skill-img{
         width: 12%;
     }
+    .css-img{
+        width: 8%;
+    }
+    .sql-img{
+        width: 13%;
+    }
 }
 @media screen and (min-width: 768px) {
     .intro-row{
@@ -204,7 +215,7 @@ hr{
         height: 550px;
     }
     .work-row{
-        height: 790px;
+        height: 845px;
     }
 }
 @media only screen and (min-width: 992px) {
